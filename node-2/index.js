@@ -46,7 +46,7 @@ const server = http.createServer((req, res) => {
       res.end();
   }
 
-  console.log('server started  ');
+  console.log('server started ');
   //   res.setHeader('Dummy', 'DummyValue');
 
   //
